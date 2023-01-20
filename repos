@@ -1,0 +1,41 @@
+Course GitHub Repository Links
+GitHub Repository Links
+
+Course Main Repository: terraform-on-aws-eks
+
+Course Presentation: Presentation Slides PPT
+
+Kubernetes Fundamentals GitHub Repository: kubernetes-fundamentals
+
+Kubernetes Fundamentals Presentation: Presentation Slides
+
+Direct Links
+
+https://github.com/stacksimplify/terraform-on-aws-eks
+
+https://github.com/stacksimplify/terraform-on-aws-eks/tree/main/course-presentation
+
+https://github.com/stacksimplify/kubernetes-fundamentals
+
+https://github.com/stacksimplify/kubernetes-fundamentals/tree/master/presentation.
+
+
+Step-00: Pre-requisite Note about this module
+Dear Students,
+Terraform Basics section will be common for all the three courses listed below
+
+HashiCopr Certified Terraform Associate - 50 Practical Demos
+
+Terraform on AWS with SRE & IaC DevOps | Real-World 22 Demos
+
+Terraform on AWS EKS Kubernetes | Real-World 20 Demos
+
+So you will be seeing the below listed two GitHub repositories in the videos for Terraform Sections and we don't need to worry about them.
+
+https://github.com/stacksimplify/hashicorp-certified-terraform-associate/
+
+https://github.com/stacksimplify/terraform-on-aws-ec2/
+
+
+Regards,
+Kalyan Reddy Daida
